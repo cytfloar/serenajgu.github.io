@@ -1,5 +1,5 @@
 # Site Settings
-markdown: kramdown
+#markdown: kramdown
 locale                   : "en-US"
 title                    : "SJG"
 title_separator          : "-"

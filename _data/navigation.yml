@@ -2,10 +2,10 @@ main:
   - title: "About"
     url: /about
   - title: "Projects"
-    url: 
-  - title: "Publications"
-    url:
-  - title: "Posts"
+    url: /projects
+  # - title: "Publications"
+  #   url: /publication
+  - title: "Hobbies"
     url: /categories
   - title: "Contact"
-    url: 
+    url: /contact

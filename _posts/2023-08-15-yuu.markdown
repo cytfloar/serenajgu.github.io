@@ -1,8 +1,0 @@
----
-# # layout: post
-# title:  "test"
-# date:   2023-08-13 19:28:15 -0400
-# categories:
-#   - New York
-# ---
-# Test

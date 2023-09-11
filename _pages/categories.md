@@ -1,4 +1,4 @@
----
+<!-- ---
 title: ""
 layout: categories
 permalink: /categories/
@@ -6,6 +6,4 @@ author_profile: true
 ---
 Test - introduction to this page
 
-## Food Ethusiast
-
-## Chinese Calligrapher
+## Interest -->

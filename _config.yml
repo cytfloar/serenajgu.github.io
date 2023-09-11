@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -57,8 +57,8 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+#   path                   : # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -115,32 +115,38 @@ author:
     #   # url: "mailto:your.name@email.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    # url: "https://your-website.com"
+    - label: ""
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/cytfloar"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
+    - label: ""
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.online/@cytfloar"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
+    - label: ""
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cytfloar"
+    - label: ""
+      icon: "ai ai-cv big-icon"
+      url: "/assets/CV.pdf"
+
+# Site Footer
+# footer:
+#   links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/cytfloar"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
-    #   # url: "https://facebook.com/"
+    #   # url:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/cytfloar"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url: "https://instagram.com/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cytfloar"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cytfloar"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url: 
@@ -228,7 +234,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -236,7 +242,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
 
 

@@ -5,7 +5,9 @@ main:
     url: /projects
   # - title: "Publications"
   #   url: /publication
-  - title: "Hobbies"
-    url: /categories
+  # - title: "Research Qs"
+  #   url: /categories
+  - title: "Teaching"
+    url: /teaching
   - title: "Contact"
     url: /contact

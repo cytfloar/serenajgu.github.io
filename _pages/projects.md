@@ -15,8 +15,8 @@ toc: true
 <p class="smallfont">Here are the brief descriptions on the projects that I am currently working on at Columbia Center for Eating Disorders.</p>
 
 ## 2023
-### Eating Behaviors in Long-Term Weight Loss Maintenance
-<p class="smallfont"><b><i>Mentored by Laurel E. Mayer, M.D.</i></b><br><i>#Eating Behaviors  #Meal Studies  #Food Choice Task</i><br><br>...</p>
+<!-- ### Eating Behaviors in Long-Term Weight Loss Maintenance
+<p class="smallfont"><b><i>Mentored by Laurel E. Mayer, M.D.</i></b><br><i>#Eating Behaviors  #Meal Studies  #Food Choice Task</i><br><br>...</p> -->
 
 ### Differences in White Matter Pathways Before and After Weight-Restoration
 <p class="smallfont"><b><i>Mentored by E. Caitlin Llyod, Ph.D.</i></b><br><i>#AN  #DTI  #Tractography</i><br><br>Past studies show that anorexia nervosa (AN) is related to many symptoms, including being extremely underweight and exhibiting brain abnoramlities. While patients can possibly be weight restored, it is unclear if some brain abnormality can be reversed. Therefore, we aim to examine the differences in the whole brain strucutal connectivity before and after weight-restoration </p>

@@ -19,7 +19,7 @@ toc: true
 ## Hi there <i class="far fa-smile-beam"></i> 
 <p class="smallfont">I am a Ph.D. applicant for admission in Fall 2024. I am currently a Clinical Research Assistant at Columbia Center for Eating Disorders, coordinating several research studies investigating risk and maintenance factors of eating disorders using neurocognitive tasks, fMRI, EEG, EMAs, and longitudinal approach. I completed my master's thesis examining self-referential processing bias in anorexia nervosa with drift-diffusion model under the mentorship of Dr. Lisa M. Ranzenhofer in 2022.
 
-I am interested in using computational modeling and a multi-method approach (neurocognitive tasks, neuroimaging, eye tracking, and EMAs) to identify transdiagnostic mechanisms and protective factors of psychopathology, including but not limited to eating, mood, and anxiety related disorders. Particularly, I aim to examine the visual information processing and decision-making attributed to "bottom-up" and "top-down" disturbances. I am committed to developing novel evidence-based interventions for these disorders using an idiographic approach that targets person-specific maintenance and cultural factors.
+I am interested in using computational modeling and a multi-method approach (neurocognitive tasks, neuroimaging, eye tracking, EMAs) to identify transdiagnostic mechanisms and protective factors of psychopathology, including but not limited to eating, mood, and anxiety related disorders. I am committed to developing novel evidence-based interventions for these disorders using an idiographic approach that targets person-specific maintenance and cultural factors.
 </p>
 
 ## Education <i class="fas fa-graduation-cap"></i> 
@@ -27,7 +27,7 @@ I am interested in using computational modeling and a multi-method approach (neu
 HBSc, Specialist in Psychology, Major in IRHR<i><br>University of Toronto, Innis College</i></p>
 
 ## Publications and Manuscripts <i class="fas fa-edit"></i> 
-<p class="smallfont"><b>Gu, S. J.</b>, Aimufua, I., Pagliaccio, D., Shankman, S. A., Steinglass, J. E., Auerbach, R. P., & Ranzenhofer, L. M. (In Preparation) Self-referential Processing Biases in Patients with Anorexia Nervosa.
+<p class="smallfont"><b>Gu, S. J.</b>, Aimufua, I., Pagliaccio, D., Shankman, S. A., Steinglass, J. E., Auerbach, R. P., & Ranzenhofer, L. M. (Under Review) Self-referential Processing Biases in Patients with Anorexia Nervosa.
 </p>
 
 ## Presentations <i class="fas fa-chalkboard-teacher"></i>

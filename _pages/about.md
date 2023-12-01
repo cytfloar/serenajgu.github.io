@@ -11,7 +11,7 @@ toc: true
 
 <style>
     .page__content .smallfont {
-        font-size: 2.3vh;
+        font-size: 1.3vh;
         white-space: pre-wrap;
     }
 </style>

@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>
     .page__content .smallfont {
-        font-size: 1.3vh;
+        font-size: 2vh;
         white-space: pre-wrap;
     }
 </style>

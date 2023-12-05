@@ -122,9 +122,6 @@ author:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
-    - label: ""
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.online/@cytfloar"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
@@ -132,8 +129,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cytfloar"
     - label: ""
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.online/@cytfloar"
+    - label: ""
       icon: "ai ai-cv big-icon"
-      url: "/assets/CV.pdf"
+      url: "/assets/Serena_CV_2023.pdf"
 
 # Site Footer
 # footer:

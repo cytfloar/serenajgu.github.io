@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -110,15 +110,12 @@ author:
   location         : 
   email            : 
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   # url: "mailto:your.name@email.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     # url: "https://your-website.com"
     - label: ""
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/cytfloar"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/serenajgu"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
@@ -129,24 +126,27 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cytfloar"
     - label: ""
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.online/@cytfloar"
+      icon: "fas fa-regular fa-envelope"
+      url: "mailto:serenajgu@email.com"
+    # - label: ""
+    #   icon: "fab fa-fw fa-mastodon"
+    #   url: "https://mastodon.online/@cytfloar"
     - label: ""
       icon: "ai ai-cv big-icon"
-      url: "/assets/Serena_CV_2023.pdf"
+      url: "/assets/SG_CV_2024.pdf"
 
 # Site Footer
 # footer:
 #   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/cytfloar"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/serenajgu"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url:
     # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/cytfloar"
+    # icon: "fab fa-fw fa-github"
+    # url: "https://github.com/cytfloar"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url: 

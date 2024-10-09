@@ -32,7 +32,7 @@ toc:
 </style>
 
 ###### Hi there <i class="far fa-smile-beam"></i> 
-<small>I am a Ph.D. applicant for admission in Fall 2025. I am interested in using computational modeling and a multi-method approach (neurocognitive tasks, neuroimaging, eye tracking, ecological momentary assessments) to identify transdiagnostic mechanisms of psychopathology, including but not limited to anxiety, mood, eating and related disorders.
+<small>I am a Ph.D. applicant for admission in Fall 2025. I am interested in using computational modeling and a multi-method approach (neurocognitive tasks, neuroimaging, ecological momentary assessments) to identify transdiagnostic mechanisms of psychopathology, including but not limited to anxiety, mood, eating and related disorders.
 </small>
 
 <small>

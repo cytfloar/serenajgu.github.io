@@ -55,23 +55,23 @@ I am currently a clinical research coordinator at Translational Eating and Affec
 
 ###### Selected Presentations 
 <small>
-Lloyd E. C., Muratore A. F., Hu S., <b>Gu S. J.</b>, Pines J., Foerde K., Peña-González M., Ehrlich S., Thompson P., Steinglass J. (2024, September) <i>Developing ENIGMA protocols for large-scale analysis of white matter roperties in anorexia nervosa.</i> Eating Disorders Research Society (EDRS), Spain, Sitges.
+Lloyd E. C., Muratore A. F., Hu S., <b>Gu S. J.</b>, Pines J., Foerde K., Peña-González M., Ehrlich S., Thompson P., Steinglass J. (2024, September) <i>Developing ENIGMA protocols for large-scale analysis of white matter properties in anorexia nervosa.</i> Eating Disorders Research Society (EDRS), Spain, Sitges.
 </small>
 
 <small>
-<b>Gu, S. J.</b>, Aimufua, I., Pagliaccio, D., Shankman, S. A., Steinglass, J., Auerbach, R. P., & Ranzenhofer, L. (2023, June). <i>Self-referential Processing Biases in Patients with Anorexia Nervosa.</i> International Conference for Eating Disorders (ICED), United States, Washington D.C. [[Slides]](/assets/slides/ICED2023_final.pdf)
+<b>Gu, S. J.</b>, Aimufua, I., Pagliaccio, D., Shankman, S. A., Steinglass, J., Auerbach, R. P., & Ranzenhofer, L. (2023, June). <i>Self-referential processing biases in patients with anorexia nervosa.</i> International Conference for Eating Disorders (ICED), United States, Washington D.C. [[Slides]](/assets/slides/ICED2023_final.pdf)
 </small>
 
 <small>
-Ranzenhofer, L., Trivedi, E., Aimufua, I., <b>Gu, S. J.</b>, Steinglass J., Auerbach R. P. (2023, September) <i>Passive Sensing Of Social Processes In Adolescents With An Eating Disorder.</i> Eating Disorders Research Society, United States, Boston.
+Ranzenhofer, L., Trivedi, E., Aimufua, I., <b>Gu, S. J.</b>, Steinglass J., Auerbach R. P. (2023, September) <i>Passive sensing Of social processes in adolescents with an eating disorder.</i> Eating Disorders Research Society, United States, Boston.
 </small>
 
 <small>
-Tang J. E., Kurylo, D. D., <b>Gu, S. J.</b>, Jain, M., Waxman, R., & Gordon, P. (2021, May). <i>Neural Correlates of Visual Perceptual Organization (PO) in an EEG Oddball Paradigm.</i> Association for Psychological Science (APS), United States (Virtual Conference).
+Tang J. E., Kurylo, D. D., <b>Gu, S. J.</b>, Jain, M., Waxman, R., & Gordon, P. (2021, May). <i>Neural correlates of visual perceptual organization (PO) in an EEG oddball paradigm.</i> Association for Psychological Science (APS), United States (Virtual Conference).
 </small>
 
 <small>
-Cochrane B.A., <b>Gu, S. J.</b> & Pratt J. (2020, November). <i>Are Event Files due to a Long-Term or a Short-Term Memory Process?</i> The Psychonomic Society 61st Annual Meeting. (Virtual conference).
+Cochrane B.A., <b>Gu, S. J.</b> & Pratt J. (2020, November). <i>Are event files due to a long-term or a short-term memory process?</i> The Psychonomic Society 61st Annual Meeting. (Virtual conference).
 </small>
 
 <!-- ## Coding and Task Development <i class="fas fa-code"></i>

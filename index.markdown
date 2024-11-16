@@ -41,10 +41,10 @@ I am currently a clinical research coordinator at Translational Eating and Affec
 
  <!-- I am committed to developing novel evidence-based interventions for these disorders using an idiographic approach that targets person-specific maintenance and cultural factors. -->
 ###### Research Interests 
-<small> Computational Clinical Science | Translational Neuroscience | Ecological Momentary Assessments | Transdiagnostic Mechanisms of Anxiety, Mood, Eating, and Related Disorders </small>
+<small> Computational Clinical Science | Translational Neuroscience | Ecological Momentary Assessments | Transdiagnostic Mechanisms of Anxiety, Mood, Eating, and Other Disorders </small>
 
-<!-- ###### Other Interests
-<small> Traveling with Beli | </small> -->
+###### Other Interests
+<small> Food 🍽️ | E175 ✈️ | osu! 🎶 </small>
 
 ###### Education 
 <small>M.A., Clinical Psychology<i><br>Teachers College, Columbia University</i><br><br>HBSc, Specialist in Psychology, Major in IRHR<i><br>Innis College, University of Toronto</i></small>

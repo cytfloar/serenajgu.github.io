@@ -36,7 +36,7 @@ toc:
 </small>
 
 <small>
-I am currently a clinical research coordinator at Translational Research on Eating and Affect (TREAT) Lab under the mentorship of Dr. [Kelsey Hagan](https://medschool.vcu.edu/about/portfolio/details/haganke/), coordinating neuroimaging and neurocognitive studies investigating mechanisms of eating disorders. I completed my master's thesis examining self-referential processing bias in anorexia nervosa with drift-diffusion model under the mentorship of Dr. Lisa Ranzenhofer at Columbia Center for Eating Disorders.
+I am currently a clinical research coordinator at Translational Research on Eating and Affect (TREAT) Lab under the mentorship of Dr. [Kelsey Hagan](https://medschool.vcu.edu/about/portfolio/details/haganke/), coordinating neuroimaging and neurocognitive studies investigating mechanisms of eating disorders. I completed my master's thesis examining self-referential processing bias in anorexia nervosa with drift-diffusion model under the mentorship of Dr. [Lisa Ranzenhofer](https://medicine.buffalo.edu/faculty/profile.html?ubit=lisaranz) at Columbia Center for Eating Disorders.
 </small>
 
  <!-- I am committed to developing novel evidence-based interventions for these disorders using an idiographic approach that targets person-specific maintenance and cultural factors. -->

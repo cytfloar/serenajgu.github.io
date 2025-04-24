@@ -32,11 +32,11 @@ toc:
 </style>
 
 ###### Hi there <i class="far fa-smile-beam"></i> 
-<small>I am a Ph.D. applicant for admission in Fall 2025. I am interested in using computational modeling and a multi-method approach (neurocognitive tasks, neuroimaging, ecological momentary assessments) to identify transdiagnostic mechanisms of psychopathology, including but not limited to anxiety, mood, eating and related disorders.
-</small>
+<!-- <small>I am a Ph.D. applicant for admission in Fall 2025. I am interested in using computational modeling and a multi-method approach (neurocognitive tasks, neuroimaging, ecological momentary assessments) to identify transdiagnostic mechanisms of psychopathology, including but not limited to anxiety, mood, eating and related disorders.
+</small> -->
 
 <small>
-I am currently a clinical research coordinator at Translational Research on Eating and Affect (TREAT) Lab under the mentorship of Dr. [Kelsey Hagan](https://medschool.vcu.edu/about/portfolio/details/haganke/), coordinating neuroimaging and neurocognitive studies investigating mechanisms of eating disorders. I completed my master's thesis examining self-referential processing bias in anorexia nervosa with drift-diffusion model under the mentorship of Dr. [Lisa Ranzenhofer](https://medicine.buffalo.edu/faculty/profile.html?ubit=lisaranz) at Columbia Center for Eating Disorders.
+I am a clinical research coordinator at Translational Research on Eating and Affect (TREAT) Lab under the mentorship of Dr. Kelsey Hagan, coordinating neuroimaging and neurocognitive studies investigating mechanisms of eating disorders. I completed my master's thesis examining self-referential processing bias in anorexia nervosa with drift-diffusion model under the mentorship of Dr. Lisa Ranzenhofer at Columbia Center for Eating Disorders.
 </small>
 
  <!-- I am committed to developing novel evidence-based interventions for these disorders using an idiographic approach that targets person-specific maintenance and cultural factors. -->
@@ -44,7 +44,7 @@ I am currently a clinical research coordinator at Translational Research on Eati
 <small> Computational Clinical Science | Translational Neuroscience | Ecological Momentary Assessments | Transdiagnostic Mechanisms of Anxiety, Mood, Eating, and Other Disorders </small>
 
 ###### Other Interests
-<small> Food 🍽️ | E175 ✈️ | osu! 🎶 </small>
+<small> Food 🍽️ | E175 ✈️ | [osu!](https://osu.ppy.sh/) 🎶 </small>
 
 ###### Education 
 <small>M.A., Clinical Psychology<i><br>Teachers College, Columbia University</i><br><br>HBSc, Specialist in Psychology, Major in IRHR<i><br>Innis College, University of Toronto</i></small>

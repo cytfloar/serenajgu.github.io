@@ -22,7 +22,7 @@ classes: wide
     }
 </style>
 ###### Work in Progress
-<small>[Lee., S., <b>Gu S. J.</b>, Derrigo, K. \& Haynos, A. (In Preparation). General and Disorder-Specific Reward Processing in Individuals with Anorexia Nervosa and Suicidality: Evidence from Two Behavioral Tasks [Pre-registration available on OSF]](https://osf.io/crqgu/)
+<small>[Lee., S., <b>Gu S. J.</b>, Derrigo, K. & Haynos, A. (In Preparation). General and Disorder-Specific Reward Processing in Individuals with Anorexia Nervosa and Suicidality: Evidence from Two Behavioral Tasks [Pre-registration available on OSF]](https://osf.io/crqgu/)
 </small>
 
 ###### Peer-Reviewed Publications 
